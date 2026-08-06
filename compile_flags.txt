@@ -1,1 +1,5 @@
 -I/opt/homebrew/include
+-std=c17
+-Wall
+-Iinclude
+
